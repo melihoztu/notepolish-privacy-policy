@@ -51,4 +51,4 @@ Karl-Zurlo-Str.11
 Germany
 
 **Email:** iscoresport@gmail.com\
-**X:** https://x.com/moztlab
+**X:** <https://x.com/moztlab>
