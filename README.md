@@ -50,5 +50,5 @@ Karl-Zurlo-Str.11
 40885 Ratingen
 Germany
 
-**Email:** iscoresport@gmail.com. 
+**Email:** iscoresport@gmail.com\
 **X:** https://x.com/moztlab
